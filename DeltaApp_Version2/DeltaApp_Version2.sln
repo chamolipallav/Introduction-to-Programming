@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeltaApp_Version2", "DeltaApp_Version2\DeltaApp_Version2.csproj", "{E21FCF24-60A5-4D86-A7B5-5926B81CFD80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E21FCF24-60A5-4D86-A7B5-5926B81CFD80}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{E21FCF24-60A5-4D86-A7B5-5926B81CFD80}.Debug|anycpu.Build.0 = Debug|anycpu
+		{E21FCF24-60A5-4D86-A7B5-5926B81CFD80}.Release|anycpu.ActiveCfg = Release|anycpu
+		{E21FCF24-60A5-4D86-A7B5-5926B81CFD80}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

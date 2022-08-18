@@ -1,0 +1,5 @@
+/Users/pallavchamoli/Projects/DeltaApp_Version2/DeltaApp_Version2/obj/Debug/DeltaApp_Version2.csprojAssemblyReference.cache
+/Users/pallavchamoli/Projects/DeltaApp_Version2/DeltaApp_Version2/bin/Debug/DeltaApp_Version2.exe
+/Users/pallavchamoli/Projects/DeltaApp_Version2/DeltaApp_Version2/bin/Debug/DeltaApp_Version2.pdb
+/Users/pallavchamoli/Projects/DeltaApp_Version2/DeltaApp_Version2/obj/Debug/DeltaApp_Version2.exe
+/Users/pallavchamoli/Projects/DeltaApp_Version2/DeltaApp_Version2/obj/Debug/DeltaApp_Version2.pdb

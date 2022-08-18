@@ -1,0 +1,5 @@
+/Users/pallavchamoli/Projects/HoursAndMinutes/HoursAndMinutes/bin/Debug/HoursAndMinutes.exe
+/Users/pallavchamoli/Projects/HoursAndMinutes/HoursAndMinutes/bin/Debug/HoursAndMinutes.pdb
+/Users/pallavchamoli/Projects/HoursAndMinutes/HoursAndMinutes/obj/Debug/HoursAndMinutes.csprojAssemblyReference.cache
+/Users/pallavchamoli/Projects/HoursAndMinutes/HoursAndMinutes/obj/Debug/HoursAndMinutes.exe
+/Users/pallavchamoli/Projects/HoursAndMinutes/HoursAndMinutes/obj/Debug/HoursAndMinutes.pdb
